@@ -1,2 +1,1 @@
-# Normalize line endings to LF in repo, convert to native on checkout
-* text=auto
+* text=auto eol=lf
